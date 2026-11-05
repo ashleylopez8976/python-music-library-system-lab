@@ -144,3 +144,18 @@ Before you submit your solution, you need to save your progress with git.
   * For additional information on submitting assignments in CodeGrade: [Getting Started in Canvas](https://help.codegrade.com/for-students/getting-started/getting-started-in-canvas)
 
 
+## Completed Functionality
+
+Implemented a Song class with name, artist, and genre attributes.
+Class methods track the total number of songs, unique genres and
+artists, and song counts for each genre and artist.
+
+## Testing
+
+Run the tests with the project's virtual environment activated:
+
+python -m pytest
+
+All 6 tests passed.
+
+![All six tests passing](screenshots/tests-passed.png)
